@@ -1,0 +1,9 @@
+.git/
+dist
+.egg/
+*.egg-info
+**/*.pyc
+**/*.swp
+**/__pycache__
+.envrc
+venv
